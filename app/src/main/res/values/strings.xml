@@ -1,0 +1,51 @@
+<resources>
+    <!-- Заголовки и тексты -->
+    <string name="app_name">Quiz</string>
+    <string name="welcome_message">Добро пожаловать в Quiz</string>
+    <string name="start_button">Начать</string>
+    <string name="next_button">Далее</string>
+    <string name="finish_button">Завершить</string>
+    <string name="restart_button">Пройти снова</string>
+    <string name="exit_button">Выйти</string>
+
+    <!-- Вопросы -->
+    <string-array name="questions">
+        <item>Какой язык программирования используется для создания Android-приложений?</item>
+        <item>Какой элемент используется для отображения текста в Android?</item>
+        <item>Что такое Activity в Android?</item>
+        <item>Какой метод запускает активность в Android?</item>
+        <item>Что такое Intent в Android?</item>
+    </string-array>
+
+    <!-- Ответы -->
+    <string-array name="answers_1">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>C++</item>
+        <item>Python</item>
+    </string-array>
+    <string-array name="answers_2">
+        <item>Button</item>
+        <item>TextView</item>
+        <item>EditText</item>
+        <item>ImageView</item>
+    </string-array>
+    <string-array name="answers_3">
+        <item>Объект интерфейса</item>
+        <item>Функция обработки событий</item>
+        <item>Класс приложения</item>
+        <item>Устройство Android</item>
+    </string-array>
+    <string-array name="answers_4">
+        <item>onCreate()</item>
+        <item>onStart()</item>
+        <item>onPause()</item>
+        <item>onResume()</item>
+    </string-array>
+    <string-array name="answers_5">
+        <item>Объект передачи данных</item>
+        <item>Метод запуска активности</item>
+        <item>Объект ресурса</item>
+        <item>Класс приложения</item>
+    </string-array>
+</resources>
